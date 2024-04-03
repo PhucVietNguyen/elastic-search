@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: elasticsearch-spring-boot
+
+server:
+  port: 8081
+
+elasticsearch:
+  cluster-node: localhost
+  cluster-name: DESKTOP-FOOFB4V
+  cluster-port: 9200
